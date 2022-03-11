@@ -1,0 +1,5 @@
+{
+  "heading": "i18n-Next implementation in React Js",
+  "para": "This a POC Demo of React JS i18n-next package Implementation for SE",
+  "build": "This app is build on {{build_date}}"
+}
